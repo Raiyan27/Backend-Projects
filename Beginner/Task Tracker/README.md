@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-A simple command line interface (CLI) to track and manage your tasks.
+A simple command line interface (CLI) to track and manage your tasks. Inspired by the the [Task Tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
 
 ## Features
 

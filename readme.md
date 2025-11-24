@@ -5,3 +5,8 @@ This repository contains a list of project solutions for the [Backend Developer]
 Solution for each project is in the respective folder. The folder name is the same as the project name. Each project folder contains a `readme.md` file that describes the project and the solution.
 
 You can find the list of projects [here](https://roadmap.sh/backend/projects).
+
+## Project Structure
+
+- **Beginner**
+  - [Task Tracker](https://roadmap.sh/projects/task-tracker) (`Beginner/Task Tracker`)
